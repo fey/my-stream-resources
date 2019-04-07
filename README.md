@@ -40,5 +40,6 @@
         -   indent-rainbow
         -   Semicolon Insertion Shortcut
         -   GitLens
-
+        -   https://www.elephantsql.com/ 
+        -   https://www.db-fiddle.com
     >Алексей Ерёмин​ Давай напишем парсер для пикабу. Который будет искать все комменты и посты определенных пользователей и ставить им лайки или дизлайки

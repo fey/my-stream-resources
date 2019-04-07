@@ -43,3 +43,9 @@
         -   https://www.elephantsql.com/ 
         -   https://www.db-fiddle.com
     >Алексей Ерёмин​ Давай напишем парсер для пикабу. Который будет искать все комменты и посты определенных пользователей и ставить им лайки или дизлайки
+
+    ### Установка PHP под Windows
+    1. Установить choco
+    2. `choco install php composer -y`
+    3. Установить sublime / vscode
+    4. Установить xdebug

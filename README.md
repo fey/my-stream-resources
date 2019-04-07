@@ -2,6 +2,11 @@
 2. Слепая 10 пальцевая печать.
 3. Ресурсы для начинающих:
     - https://code-basics.ru/
+    - https://github.com/
+    - Изучение Гит:
+        -   https://githowto.com/ru
+        -   https://learngitbranching.js.org/
+        -   https://git-scm.com/
     - https://ru.hexlet.io/my
     - тестовые задания
     - https://www.codewars.com/dashboard
